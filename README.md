@@ -1,0 +1,1 @@
+## Repository for algorithm tasks written in Python
